@@ -1,4 +1,4 @@
-# Real Estate DApp (Decentralized Application)
+# Real Estate
 
 ## Description
 This project is a decentralized application (DApp) designed to facilitate the buying and selling of real estate using blockchain technologies. The application utilizes smart contracts written in Solidity, managed and tested with Hardhat, and a user interface developed with React.
